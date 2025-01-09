@@ -13,7 +13,17 @@ By leveraging advanced data visualization and statistical tools, this analysis h
 The objective of this project is to conduct a comprehensive analysis of Zenith's human resource data to uncover actionable insights into employee demographics, performance, engagement, and workforce trends. By examining metrics such as employee terminations, age distribution, absenteeism, and the relationship between compensation and performance, this analysis aims to support data-driven decision-making for optimizing HR strategies and enhancing organizational effectiveness.
 ## Tools
 - Tableau
-- Excel 
+- Excel
+## Techniques and Skills
+- Data normalization
+- Data transformation with Power Query
+- Data visualization
+## Interact with Dashboard: 
+https://public.tableau.com/views/ZENITHTECHPORTFOLIOPROJECT/FinalDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+ 
+
+  
+
 
 
 
