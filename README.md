@@ -25,7 +25,7 @@ https://public.tableau.com/views/ZENITHTECHPORTFOLIOPROJECT/FinalDashboard?:lang
 ![Dashboard Insights 2](https://github.com/Sobowale-Daniel/Zenith-Tech-Human-Resources-/blob/main/Assets/2.png)
 ![Dashboard Insights 2](https://github.com/Sobowale-Daniel/Zenith-Tech-Human-Resources-/blob/main/Assets/3.png)
 ## Download
-<a href = https://github.com/Sobowale-Daniel/Zenith-Tech-Human-Resources-/blob/60912e0a18e45e8eb310ae5d0c52a5c6440210df/Assets/SOBOWALE%20DANIEL%20ZENITH%20TECH%20PORTFOLIO%20PROJECT.twbx> Download The Tableau File </a>
+<a href = https://github.com/Sobowale-Daniel/Zenith-Tech-Human-Resources-/raw/60912e0a18e45e8eb310ae5d0c52a5c6440210df/Assets/SOBOWALE%20DANIEL%20ZENITH%20TECH%20PORTFOLIO%20PROJECT.twbx> Download The Tableau File </a>
 
 
 
