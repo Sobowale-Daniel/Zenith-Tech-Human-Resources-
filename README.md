@@ -21,9 +21,9 @@ The objective of this project is to conduct a comprehensive analysis of Zenith's
 ## Interact with Dashboard: 
 https://public.tableau.com/views/ZENITHTECHPORTFOLIOPROJECT/FinalDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 ## Dashboard Insights
-(https://github.com/Sobowale-Daniel/Zenith-Tech-Human-Resources-/blob/main/Assets/1.png)
-(https://github.com/Sobowale-Daniel/Zenith-Tech-Human-Resources-/blob/main/Assets/2.png)
-(https://github.com/Sobowale-Daniel/Zenith-Tech-Human-Resources-/blob/main/Assets/3.png)
+!(https://github.com/Sobowale-Daniel/Zenith-Tech-Human-Resources-/blob/main/Assets/1.png)
+!(https://github.com/Sobowale-Daniel/Zenith-Tech-Human-Resources-/blob/main/Assets/2.png)
+!(https://github.com/Sobowale-Daniel/Zenith-Tech-Human-Resources-/blob/main/Assets/3.png)
 ## Download
 <a href = https://github.com/Sobowale-Daniel/Zenith-Tech-Human-Resources-/blob/60912e0a18e45e8eb310ae5d0c52a5c6440210df/Assets/SOBOWALE%20DANIEL%20ZENITH%20TECH%20PORTFOLIO%20PROJECT.twbx> Download The Power BI File </a>
 
